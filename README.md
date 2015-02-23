@@ -6,4 +6,4 @@ Added this line on the develop branch - X
 
 Added a line from feature A
 
-And a new (erroneous) line from B
+And a new (fixed) line from B
